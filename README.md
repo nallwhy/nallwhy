@@ -27,9 +27,9 @@ Below needs to be migrated to somewhere
 
 ### Open Source Contributions
 
-- [angular/components: MdDialogClose](https://github.com/angular/components/pull/4332)
-- [DefinitelyTyped: Underscore](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9711)
-- [Git-it: Korean Translation](https://github.com/jlord/git-it-electron/pull/159)
+- [angular/components: Fix MdDialogClose](https://github.com/angular/components/pull/4332)
+- [DefinitelyTyped: Fix the type definitions of findIndex/findLastIndex of Underscore](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9711)
+- [Git-it: Korean translation](https://github.com/jlord/git-it-electron/pull/159)
 - [Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
   - [Fix for the new GitHub](https://github.com/jasonlong/isometric-contributions/pull/56)
   - [Fix for the year feature of GitHub](https://github.com/jasonlong/isometric-contributions/pull/59)
