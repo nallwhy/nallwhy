@@ -1,9 +1,9 @@
 ## Json
 
-- Love Elixir ❤️
-- Don't love Java 🤮
+- Love Elixir, Ruby ❤️
+- Don't love Java, JavaScript 🤮
 
-### Writing
+### Writings
 
 - [Json Magazine](https://www.facebook.com/json.magazine)
 - [Gangnamunni Blog](https://blog.gangnamunni.com/blog)
@@ -24,3 +24,12 @@ Below needs to be migrated to somewhere
   - [개발 프로세스에 대한 생각](https://maytrees.tistory.com/174)
   - [윈도우 예약 종료 프로그램 (mayTree Shutdown) v3.2](https://maytrees.tistory.com/144)
     - I think it was a World Best Windows Shutdown Timer
+
+### Open Source Contributions
+
+- [angular/components: MdDialogClose](https://github.com/angular/components/pull/4332)
+- [DefinitelyTyped: Underscore](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9711)
+- [Git-it: Korean Translation](https://github.com/jlord/git-it-electron/pull/159)
+- [Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
+  - [Fix for the new GitHub](https://github.com/jasonlong/isometric-contributions/pull/56)
+  - [Fix for the year feature of GitHub](https://github.com/jasonlong/isometric-contributions/pull/59)
