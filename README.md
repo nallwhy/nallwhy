@@ -1,7 +1,6 @@
 ## Json
 
 - Love Elixir, Ruby ❤️
-- Don't love Java, JavaScript 🤮
 
 ### Writings
 
