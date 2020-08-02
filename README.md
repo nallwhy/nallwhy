@@ -13,7 +13,7 @@
   - [GitFlow? 들어도 봤고, 쓰고도 있는데...](https://blog.gangnamunni.com/post/understanding_git_flow)
   - [git bisect 로 문제가 발생한 commit 빠르고 쉽게 찾기](https://blog.gangnamunni.com/post/understanding_git_bisect)
   
-Belows needs to be migrated to somewhere
+Below needs to be migrated to somewhere
 - [Postype](https://json.postype.com/)
   - [나의 첫 Open Source Contribution 도전기](https://json.postype.com/post/204838)
   - [[Git] Fork 한 repository 최신으로 동기화하기](https://json.postype.com/post/210431)
