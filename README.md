@@ -1,6 +1,6 @@
 ## Json
 
-- Love Elixir, Ruby ❤️
+- Love Elixir ❤️ [Elixir Korea](https://github.com/elixir-korea)
 
 ### Writings
 
