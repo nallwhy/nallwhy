@@ -32,3 +32,5 @@ Below needs to be migrated to somewhere
 - [Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
   - [Fix for the new GitHub](https://github.com/jasonlong/isometric-contributions/pull/56)
   - [Fix for the year feature of GitHub](https://github.com/jasonlong/isometric-contributions/pull/59)
+- [pbkdf2_elixir](https://github.com/riverrun/pbkdf2_elixir/pull/15)
+- [stream_data](https://github.com/whatyouhide/stream_data/pull/154)
