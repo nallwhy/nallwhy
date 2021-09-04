@@ -34,3 +34,4 @@ Below needs to be migrated to somewhere
   - [Fix for the year feature of GitHub](https://github.com/jasonlong/isometric-contributions/pull/59)
 - [pbkdf2_elixir](https://github.com/riverrun/pbkdf2_elixir/pull/15)
 - [stream_data](https://github.com/whatyouhide/stream_data/pull/154)
+- [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view/pull/1599)
