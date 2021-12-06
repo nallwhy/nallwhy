@@ -36,3 +36,4 @@ Below needs to be migrated to somewhere
 - [stream_data](https://github.com/whatyouhide/stream_data/pull/154)
 - [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view/pull/1599)
 - [Instream](https://github.com/mneudert/instream/pull/68)
+- [TelemetryMetricsAppsignal](https://github.com/surgeventures/telemetry_metrics_appsignal/pull/9)
