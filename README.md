@@ -37,3 +37,4 @@ Below needs to be migrated to somewhere
 - [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view/pull/1599)
 - [Instream](https://github.com/mneudert/instream/pull/68)
 - [TelemetryMetricsAppsignal](https://github.com/surgeventures/telemetry_metrics_appsignal/pull/9)
+- [Scidata](https://github.com/elixir-nx/scidata/pull/21)
