@@ -40,3 +40,4 @@ Below needs to be migrated to somewhere
 - [TelemetryMetricsAppsignal](https://github.com/surgeventures/telemetry_metrics_appsignal/pull/9)
 - [Scidata](https://github.com/elixir-nx/scidata/pull/21)
 - [github/linguist](https://github.com/github/linguist/pull/5671)
+- [Swoosh](https://github.com/swoosh/swoosh/pull/650)
