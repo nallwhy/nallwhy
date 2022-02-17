@@ -45,3 +45,4 @@ Below needs to be migrated to somewhere
 - [github/linguist](https://github.com/github/linguist/pull/5671)
 - [Swoosh](https://github.com/swoosh/swoosh/pull/650)
 - [Ecto](https://github.com/elixir-ecto/ecto/pull/3807)
+- [Elixir](https://github.com/elixir-lang/elixir/pull/11633)
