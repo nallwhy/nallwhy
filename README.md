@@ -13,6 +13,7 @@
   - [git bisect 로 문제가 발생한 commit 빠르고 쉽게 찾기](https://blog.gangnamunni.com/post/understanding_git_bisect)
 - [중요한 건 인터페이스야 바보야!](https://docs.google.com/presentation/d/13DYjGhTQB6DBeF92B7kg70-Pik8DoR8jcTobbprS4Ps/edit?usp=sharing)
 - [원티드 Edit: 개발자의 사이드 프로젝트](https://www.wanted.co.kr/events/21_12_s01_b02)
+- [원티드 Edit: 엉덩이가 무거워진 개발자의 딜레마](https://www.wanted.co.kr/events/22_02_s09_b01)
   
 Below needs to be migrated to somewhere
 - [Postype](https://json.postype.com/)
