@@ -51,6 +51,4 @@ Below needs to be migrated to somewhere
 - [Ecto](https://github.com/elixir-ecto/ecto/pull/3807)
 - [Elixir](https://github.com/elixir-lang/elixir/pull/11633)
 - [Nx](https://github.com/elixir-nx/nx/pull/936)
-- [Explorer](https://github.com/elixir-nx/explorer)
-  - [Add missing "concat" operation for lazy series](https://github.com/elixir-nx/explorer/pull/366)
-  - [Allow operations with lazy series and series](https://github.com/elixir-nx/explorer/pull/369)
+- [Explorer](https://github.com/elixir-nx/explorer/pulls?q=is%3Apr+author%3Anallwhy+is%3Aclosed)
