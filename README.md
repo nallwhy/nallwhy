@@ -52,3 +52,4 @@ Below needs to be migrated to somewhere
 - [Elixir](https://github.com/elixir-lang/elixir/pull/11633)
 - [Nx](https://github.com/elixir-nx/nx/pull/936)
 - [Explorer](https://github.com/elixir-nx/explorer/pulls?q=is%3Apr+author%3Anallwhy+is%3Aclosed)
+- [pgvector-elixir](https://github.com/pgvector/pgvector-elixir/pull/8)
