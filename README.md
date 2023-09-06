@@ -1,6 +1,8 @@
 ## Json
 
-- Love Elixir ❤️ [Elixir Korea](https://github.com/elixir-korea)
+- Love Elixir ❤️
+- Co-organizer of [Elixir Korea](https://github.com/elixir-korea)
+- Co-organizer of [Seoul Elixir Meetup](https://www.meetup.com/seoul-elixir-meetup/)
 
 ### Writings
 
